@@ -1,5 +1,5 @@
 {
-  "name": "atomic-design",
+  "name": "atomic",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -7,7 +7,9 @@
   "dependencies": {
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-scripts": "4.0.0"
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.0",
+    "styled-components": "5.3.6"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
